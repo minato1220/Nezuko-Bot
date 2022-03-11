@@ -14,7 +14,7 @@
 Button : If you are deploying normally
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Oreki-san/RIN)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/minato1220/RIN)
 
 Button : If you are deploying from a fork
 
@@ -35,12 +35,12 @@ Button : If you are deploying from a fork
 ## 💻 Deploy/Hosting Guide
 
 -   Section Moved to
-    [RIN-Guides](https://github.com/Oreki-san/Eru-Guide/blob/main/README.md)
+    [RIN-Guides](https://github.com/minato1220/Eru-Guide/blob/main/README.md)
 
 ## 🍥 Features of the Repo
 
 -   To view all features, click
-    here➡️[Kaoi_featuresList.md](https://github.com/PrajjwalDatir/Kaoi/blob/main/Features.md)
+    here➡️[Kaoi_featuresList.md](https://github.com/minato1220/blob/main/Features.md)
 
 ## 💪 Contribution
 
